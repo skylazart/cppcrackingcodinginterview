@@ -27,6 +27,15 @@
     <ClInclude Include="Prob1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Prob2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CppCrackingCodingInterview.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Prob3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -36,6 +45,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Prob1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prob2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prob3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

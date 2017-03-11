@@ -2,12 +2,16 @@
 //
 
 #include "stdafx.h"
+
+#include <iostream>
+#include <string>
+#include <vector>
 #include "Prob1.h"
+#include "Prob2.h"
+#include "Prob3.h"
+#include "CppCrackingCodingInterview.h"
 
-
-int main()
-{
-	Prob1 p1({0, -1, 2, -3, 1});
-    return 0;
+int main(int argc, char *argv[]) {
+	prob3::main(argc, argv);
+	return 0;
 }
-
