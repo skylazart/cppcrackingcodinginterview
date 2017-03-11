@@ -1,9 +1,6 @@
 #include "stdafx.h"
 #include "Prob1.h"
 
-
-
-
 Prob1::Prob1(const std::vector<int>& V)
 {
 	std::unordered_set<int> set;
